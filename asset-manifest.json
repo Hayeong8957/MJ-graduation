@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/MJ-graduation/static/css/main.3adccd0c.css",
+    "main.js": "/MJ-graduation/static/js/main.8a756583.js",
+    "index.html": "/MJ-graduation/index.html",
+    "main.3adccd0c.css.map": "/MJ-graduation/static/css/main.3adccd0c.css.map",
+    "main.8a756583.js.map": "/MJ-graduation/static/js/main.8a756583.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3adccd0c.css",
+    "static/js/main.8a756583.js"
+  ]
+}
