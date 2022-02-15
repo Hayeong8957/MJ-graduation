@@ -41,7 +41,7 @@ function Head() {
     <HeadBlock>
       <h2>경영학부 엘리트 최민정!</h2>
       <h3> 🎉졸업축하해🎉</h3>
-      <div className="notice">우리들의 축하메세지는 방명록에💕</div>
+      <div className="notice">우리들의 축하메세지는 편지에💕</div>
     </HeadBlock>
   );
 }
