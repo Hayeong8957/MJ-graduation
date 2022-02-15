@@ -1,0 +1,116 @@
+.minjeongImg6 {
+  /* position: absolute; */
+  margin-top: 165px;
+  margin-left: 75px;
+  height: 267px;
+  width: 216px;
+}
+
+.heart {
+  position: absolute;
+  margin-top: 190px;
+  margin-left: 40px;
+  height: 80px;
+  width: 63px;
+}
+
+.textBubble {
+  position: absolute;
+  -webkit-transform: rotateZ(15deg);
+  margin-top: 17px;
+  margin-left: 10px;
+  height: 150px;
+  width: 230px;
+}
+
+.warning {
+  color: #343a40;
+  text-align: center;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  font-size: 18px;
+  font-family: "KOTRAHOPE";
+}
+
+@font-face {
+  font-family: "KOTRAHOPE";
+  src: url("https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2110@1.0/KOTRAHOPE.woff2")
+    format("woff2");
+  font-weight: normal;
+  font-style: normal;
+}
+
+.together1 {
+  margin-top: 5px;
+  width: 280px;
+  height: 158px;
+}
+
+.together2 {
+  width: 280px;
+  height: 210px;
+}
+
+.together3 {
+  width: 280px;
+  height: 420px;
+}
+
+.together4 {
+  width: 280px;
+  height: 158px;
+}
+
+.together5 {
+  width: 280px;
+  height: 373px;
+}
+
+.together6 {
+  width: 280px;
+  height: 442px;
+}
+
+.three1 {
+  width: 280px;
+  height: 591px;
+}
+.three2 {
+  width: 280px;
+  height: 158px;
+}
+.three3 {
+  width: 280px;
+  height: 277px;
+}
+.three4 {
+  width: 280px;
+  height: 603px;
+}
+.three5 {
+  width: 280px;
+  height: 221px;
+}
+.three6 {
+  width: 280px;
+  height: 280px;
+  margin-bottom: 5px;
+}
+.banner {
+  width: 300px;
+  height: 54px;
+  margin-top: 0px;
+}
+.form-wrapper {
+  width: 300px;
+  bottom: 0;
+  left: 0;
+  position: relative;
+  margin: 0 auto;
+  background: #f8f9fa;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-bottom-left-radius: 16px;
+  border-bottom-right-radius: 16px;
+  border-top: 1px solid #e9ecef;
+}
