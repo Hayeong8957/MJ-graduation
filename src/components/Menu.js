@@ -16,6 +16,7 @@ const MenuBlock = styled.div`
   justify-content: space-between;
 
   button {
+    color: black;
     width: 100%;
     background-color: #ff98a6;
     display: inline-block;
@@ -38,7 +39,7 @@ const MenuBlock = styled.div`
 function Menu() {
   const navigate = useNavigate();
   const GotoHome = (e) => {
-    navigate("/home");
+    navigate("/");
   };
   const GotoPhotoBook = (e) => {
     navigate("/photobook");
