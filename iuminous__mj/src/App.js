@@ -6,7 +6,7 @@ import PhotoBook from "./PhotoBook";
 function App() {
   return (
     <BrowserRouter>
-      <Routes>
+      <Routes basename={process.env.PUBLIC_URL}>
         <Route path="/home" element={<Home />} />
         <Route path="/guestbook" element={<GuestBook />} />
         <Route path="/photobook" element={<PhotoBook />} />
