@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/MJ-graduation/static/css/main.3adccd0c.css",
-    "main.js": "/MJ-graduation/static/js/main.8a756583.js",
-    "index.html": "/MJ-graduation/index.html",
-    "main.3adccd0c.css.map": "/MJ-graduation/static/css/main.3adccd0c.css.map",
-    "main.8a756583.js.map": "/MJ-graduation/static/js/main.8a756583.js.map"
+    "main.css": "/iuminous_mj/static/css/main.3adccd0c.css",
+    "main.js": "/iuminous_mj/static/js/main.60df80e2.js",
+    "index.html": "/iuminous_mj/index.html",
+    "main.3adccd0c.css.map": "/iuminous_mj/static/css/main.3adccd0c.css.map",
+    "main.60df80e2.js.map": "/iuminous_mj/static/js/main.60df80e2.js.map"
   },
   "entrypoints": [
     "static/css/main.3adccd0c.css",
-    "static/js/main.8a756583.js"
+    "static/js/main.60df80e2.js"
   ]
 }
